@@ -1,7 +1,7 @@
 # Frame-color
 .box {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 130px;
   background-color: #f00;
   transition: all 1s ease;
 }
